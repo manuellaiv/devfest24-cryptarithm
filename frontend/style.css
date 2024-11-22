@@ -1,0 +1,16 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+#result {
+  font-size: 1.2rem;
+  color: #2ecc71;
+}
